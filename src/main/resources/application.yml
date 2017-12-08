@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+suyu:
+  data:
+    name: suyu
+    pwd: 123456
+    sex: 男
